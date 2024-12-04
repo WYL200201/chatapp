@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivityFragment">
+
+    <!--android:background="@drawable/bg_username"-->
+    <!--android:background="@drawable/bg_username"-->
+    <!--android:background="@drawable/bg_btn3"-->
+
+    <EditText
+        android:id="@+id/et_user_id"
+        android:layout_width="250sp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="212dp"
+        android:layout_marginEnd="78dp"
+        android:background="@drawable/background_login"
+        android:backgroundTint="#F1F0C5"
+        android:foregroundTint="#009688"
+        android:hint="@string/input_user_id_hint"
+        android:maxLines="3"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/et_user_password"
+        android:layout_width="250sp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/et_user_id"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="78dp"
+        android:background="@drawable/background_login"
+        android:backgroundTint="#F1F0C5"
+        android:foregroundTint="#009688"
+        android:hint="@string/input_user_password_hint"
+        android:inputType="textPassword"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bt_login"
+        android:layout_width="100sp"
+        android:layout_height="50sp"
+        android:layout_below="@id/et_user_password"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="63dp"
+        android:layout_marginEnd="223dp"
+        android:backgroundTint="#2CB0BC"
+        android:text="LOGIN"
+        android:textColor="#FFFFFF"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/bt_sign_up"
+        android:layout_width="100sp"
+        android:layout_height="50sp"
+        android:layout_below="@id/bt_login"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-49dp"
+        android:layout_marginEnd="78dp"
+        android:backgroundTint="#2CB0BC"
+        android:text="SIGN UP"
+        android:textColor="#fff"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="173dp"
+        android:layout_height="156dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="120dp"
+        android:src="@drawable/liaotian" />
+
+    <!--android:background="@drawable/bg_btn3"-->
+</RelativeLayout>

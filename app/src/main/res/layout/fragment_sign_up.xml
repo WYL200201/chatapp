@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SignUpActivityFragment">
+
+
+    <EditText
+        android:id="@+id/et_user_id"
+        android:layout_width="250sp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="71dp"
+        android:background="@drawable/background_login"
+        android:backgroundTint="#F1F0C5"
+        android:hint="@string/input_user_id_hint"
+        android:maxLines="3"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/et_user_name"
+        android:layout_width="250sp"
+        android:layout_height="50dp"
+        android:layout_below="@id/et_user_id"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="51dp"
+        android:layout_marginEnd="71dp"
+        android:background="@drawable/background_login"
+        android:backgroundTint="#F1F0C5"
+        android:hint="@string/input_user_name_hint"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/et_user_password"
+        android:layout_width="250sp"
+        android:layout_height="50dp"
+        android:layout_below="@id/et_user_name"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="51dp"
+        android:layout_marginEnd="71dp"
+        android:background="@drawable/background_login"
+        android:backgroundTint="#F1F0C5"
+        android:hint="@string/input_user_password_hint"
+        android:inputType="textPassword"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/bt_confirm"
+        android:layout_width="200sp"
+        android:layout_height="50sp"
+        android:layout_below="@id/et_user_password"
+        android:layout_alignParentEnd="true"
+
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="98dp"
+        android:backgroundTint="#009688"
+        android:text="SIGN UP"
+        android:textColor="#fff"
+        android:textSize="12sp" />
+
+</RelativeLayout>

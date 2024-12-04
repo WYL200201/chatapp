@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/iems5722-master/app/src/main/res/drawable/background_chatroom.xml" value="0.19114583333333332" />
+        <entry key="..\:/iems5722-master/app/src/main/res/drawable/background_login.xml" value="0.16927083333333334" />
+        <entry key="..\:/iems5722-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19114583333333332" />
+        <entry key="..\:/iems5722-master/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.19114583333333332" />
+        <entry key="..\:/iems5722-master/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.19114583333333332" />
+        <entry key="..\:/iems5722-master/app/src/main/res/drawable/ic_right_arrow.xml" value="0.19114583333333332" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/activity_account.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/activity_chat.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/activity_chatroom.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/app_bar_main.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/content_chat.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/content_chatroom.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/content_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/content_main.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/content_sign_up.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/dialog_add_friend.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_chat.xml" value="0.5" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_chatroom.xml" value="0.3333333333333333" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_chatroom_genqrcode.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_gallery.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_home.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_sign_up.xml" value="0.16666666666666666" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/item_view_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/listview_chat_item.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/layout/listview_chatroom_item.xml" value="0.13994565217391305" />
+        <entry key="..\:/iems5722-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.15364583333333334" />
+        <entry key="..\:/iems5722-master/app/src/main/res/menu/bottom_nav_resource.xml" value="0.22" />
+        <entry key="..\:/iems5722-master/app/src/main/res/menu/menu_chat.xml" value="0.15364583333333334" />
+        <entry key="..\:/iems5722-master/app/src/main/res/menu/menu_chatroom.xml" value="0.15364583333333334" />
+        <entry key="..\:/iems5722-master/app/src/main/res/menu/menu_login.xml" value="0.15364583333333334" />
+        <entry key="..\:/iems5722-master/app/src/main/res/menu/menu_sign_up.xml" value="0.15364583333333334" />
+        <entry key="..\:/iems5722-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16979166666666667" />
+        <entry key="..\:/iems5722-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12135416666666667" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/background_chatroom.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/background_login.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/ic_right_arrow.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/activity_account.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/activity_chatroom.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/app_bar_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/content_chat.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/content_chatroom.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/content_login.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/content_sign_up.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/dialog_add_friend.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_chatroom.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_chatroom_genqrcode.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/item_view_layout.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/listview_chat_item.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/layout/listview_chatroom_item.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/menu/bottom_nav_resource.xml" value="0.14666666666666667" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/menu/menu_chat.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/menu/menu_chatroom.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/menu/menu_login.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/menu/menu_sign_up.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/iems5722-master/iems5722-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
